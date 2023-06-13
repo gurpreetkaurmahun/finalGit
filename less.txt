@@ -1,1 +1,2 @@
-we are on final branch of finalGit project lesson 3.
+we are on final branch of finalGit project lesson 3. newone
+lets us try this branch.from now on
